@@ -72,6 +72,7 @@ SET age = TIMESTAMPDIFF(YEAR, birthdate, '2023-04-06');
 -- Verify Output
 SELECT birthdate, age FROM hr;
 
+```
 ---
 
 ## Key Transformations
